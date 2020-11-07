@@ -1,0 +1,12 @@
+.restaurant_card{
+    background-color: #d9d9d9;
+    border-radius: 1rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Poppins;
+    padding-bottom: 15px;
+}
+
+.tabview{
+    height: 80px;
+}

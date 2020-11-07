@@ -1,0 +1,11 @@
+.footer-bg{
+    background-color:#e6e6e6;
+    width: 100%;
+    height: 100px;
+    font-family: Poppins;
+}
+
+.footer-fg{
+    color: black;  
+    margin-top: 40px;
+}

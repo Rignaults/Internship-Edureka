@@ -1,0 +1,27 @@
+.container-card{
+    margin-top: 50px;
+    margin-bottom: 50p;
+    height: 400px;
+    width: 80%;
+    text-align: center;
+    position: relative;
+}
+
+.boxbox img{
+    height: 260px;
+    width: 260px;
+    object-fit: cover;
+    border-radius: 7%;
+    transition: 0.4s;
+}
+
+.boxbox img:hover{
+    transform: scale(1.1);
+    object-fit: cover;
+    border-radius: 7%;
+}
+
+.text-on-top{
+    font-size: 30px;
+    margin-top: 10px;
+}
